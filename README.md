@@ -1,5 +1,7 @@
 # Titanic Survival Prediction 
 ### Historical Backgroud
+[click here for easy view](https://nbviewer.org/github/hiladar0/titanic/blob/main/TitanicProject.ipynb)
+
 * Titanic was a British passenger liner that sank in the North Atlantic Ocean on 15 April 1912, after striking an iceberg during her maiden voyage from Southampton to New York City.
 * Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew
 
